@@ -2,9 +2,15 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated collection of exceptional papers, datasets, and models related to machine psychology, which is the study of artificial intelligence (AI) systems, particularly large language models (LLMs), through experimental and theoretical approaches traditionally used in human psychology.
+🌟 **A curated collection of standout papers, datasets, and models in machine psychology**—the fascinating study of artificial intelligence (AI) systems, especially large language models (LLMs), using experimental and theoretical methods traditionally applied in human psychology.
 
-This project was developed at [OMNILab](https://github.com/OMNILab), Shanghai Jiao Tong University, by [Xiangtiange Li](https://github.com/tranquiltina), [Qiyuan Gu](https://github.com/phoeniiix1203), and [Xingyue Zhang](https://github.com/Adazhangdada), under the guidance of Professor Yaohui Jin and Dr. Binglei Zhao. OMNILab is now part of the [BaiYuLan Open AI community](https://github.com/Bai-Yu-Lan).
+🎓 This project was created at [OMNILab](https://github.com/OMNILab), Shanghai Jiao Tong University, by [Xiangtiange Li](https://github.com/tranquiltina), [Qiyuan Gu](https://github.com/phoeniiix1203), and [Xingyue Zhang](https://github.com/Adazhangdada), under the guidance of Professor Yaohui Jin and Dr. Binglei Zhao. OMNILab is now a part of the [BaiYuLan Open AI community](https://github.com/Bai-Yu-Lan).
+
+💡 We welcome contributions to this collection! Please review the [Contribution Guidelines](CONTRIBUTING.md) to make sure your entries fit the criteria.
+
+---
+
+This version adds a warmer tone while keeping the key information clear.
 
 ## Table of Contents
 
@@ -35,8 +41,8 @@ This project was developed at [OMNILab](https://github.com/OMNILab), Shanghai Ji
 
 **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews**
 
-- PDF: https://arxiv.org/abs/2310.17976
 - Published in: ACL 2024
+- PDF: https://arxiv.org/abs/2310.17976
 - Authors: 
 <!-- cited by 21 -->
 
@@ -176,9 +182,15 @@ cited by 19
 **Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs**
 
 - Published in: EMNLP 2022
-- PDF: 
-- Authors: 
+- PDF: https://arxiv.org/abs/2210.13312
+- Authors: Maarten Sap, Ronan LeBras, Daniel Fried, Yejin Choi
 <!-- cited by 152 -->
+
+**Do Large Language Models know what humans know?**
+
+- PDF: https://pubmed.ncbi.nlm.nih.gov/37401923/
+- Authors: Sean Trott, Cameron Jones, Tyler Chang, James Michaelov, Benjamin Bergen
+<!-- cited by 64 -->
 
 <!-- 
 The Following are papers from 2022 that don't meet the citation criteria
@@ -186,7 +198,7 @@ The Following are papers from 2022 that don't meet the citation criteria
 -->
 ## Datasets
 
-Note: Most of the data sets listed below are free, however, some are not.
+Note: Most of the datasets listed below are free, however, some are not.
 
 [HealMe](https://github.com/elsa66666/healme): Please refer to HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy
 
@@ -195,53 +207,4 @@ Note: Most of the data sets listed below are free, however, some are not.
 [HealMe](https://github.com/elsa66666/healme): Please refer to HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy
 
 [Patient Psi](https://github.com/ruiyiw/patient-psi): Please refer to PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals
-
-
-<!-- comment the following on official release -->
-## Good Repos for Reference
-
-- [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
-- [awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets/)
-
-## TODO
-
-### Urgent
-- [ ] Determine a citation criteria for papers.
-- [ ] Add ACL 2023 papers.
-- [ ] Add AAAI 2023 papers.
-- [ ] Add a "author" section for papers.
-- [ ] Add a "code" section (between "PDF" and "Published in") for papers whose authors release the code. Then update the relevant "datasets" and "models" section.
-
-### Not Urgent
-- [ ] Sort papers by topic.
-- [ ] Add a "Video" section for good vids on machine psychology
-- [ ] Add a "Blogs" section for good blogs about machine psychology
-
-## Templates
-
-### Papers
-
-Citation criteria
-
-- < 6 months : 5 citations or by discussion
-- 2024 : 10 citations
-- 2023 : 25 citations
-- 2022 : 50 citations
-
-(I don't think papers before 2022 should be included, as they are kind of outdated for LLMs today)
-
-If the paper only has an arXiv preprint link, skip the "published in" section
-
-```markdown
-****
-
-- Published in: 
-- PDF: 
-- Authors: 
-```
-
-### Datasets
-
-### Models
 
