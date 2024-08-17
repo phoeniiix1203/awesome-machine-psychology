@@ -1,8 +1,10 @@
-# Awesome Machine Psychology [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Machine Psychology
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated collection of exceptional papers, datasets, and models related to machine psychology. 
 
-This project was developed at [OMNILab](https://github.com/OMNILab), Shanghai Jiao Tong University, by Xiangtiange Li, [Qiyuan Gu](https://github.com/phoeniiix1203), and XXX, under the guidance of Professor Yaohui Jin and Dr. Binglei Zhao. OMNILab is now part of the [BaiYuLan Open AI community](https://github.com/Bai-Yu-Lan).
+This project was developed at [OMNILab](https://github.com/OMNILab), Shanghai Jiao Tong University, by [Xiangtiange Li](https://github.com/tranquiltina), [Qiyuan Gu](https://github.com/phoeniiix1203), and Xingyue Zhang, under the guidance of Professor Yaohui Jin and Dr. Binglei Zhao. OMNILab is now part of the [BaiYuLan Open AI community](https://github.com/Bai-Yu-Lan).
 
 ## Table of Contents
 
@@ -57,6 +59,7 @@ This project was developed at [OMNILab](https://github.com/OMNILab), Shanghai Ji
 - PDF: https://arxiv.org/abs/2403.05574
 - Published in: ACL 2024
 - Authors: 
+- Code: https://github.com/elsa66666/healme
 <!-- cited by 2 -->
 
 **CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling**
@@ -119,28 +122,35 @@ This project was developed at [OMNILab](https://github.com/OMNILab), Shanghai Ji
 
 Note: Most of the data sets listed below are free, however, some are not.
 
+[HealMe](https://github.com/elsa66666/healme): Please refer to HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy
+
 ## Models
+
+[HealMe](https://github.com/elsa66666/healme): Please refer to HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy
+
+[Patient Psi](https://github.com/ruiyiw/patient-psi): Please refer to PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals
+
 
 <!-- comment the following on official release -->
 ## Good Repos for Reference
 
-- [awesome-object-detection](#https://github.com/amusi/awesome-object-detection)
-- [awesome-image-classification](#https://github.com/weiaicunzai/awesome-image-classification)
-- [awesome-public-datasets](#https://github.com/awesomedata/awesome-public-datasets/)
+- [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
+- [awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets/)
 
 ## TODO
 
 ### Urgent
-- [] Determine a citation criteria for papers
-- [] Add ACL 2023 papers.
-- [] Add AAAI 2023 papers.
-- [] Add a "author" section for papers.
-- [] Add a "code" section (between "PDF" and "Published in") for papers whose authors release the code.
+- [ ] Determine a citation criteria for papers.
+- [ ] Add ACL 2023 papers.
+- [ ] Add AAAI 2023 papers.
+- [ ] Add a "author" section for papers.
+- [ ] Add a "code" section (between "PDF" and "Published in") for papers whose authors release the code. Then update the relevant "datasets" and "models" section.
 
 ### Not Urgent
-- [] Sort papers by topic.
-- [] Add a "Video" section for good vids on machine psychology
-- [] Add a "Blogs" section for good blogs about machine psychology
+- [ ] Sort papers by topic.
+- [ ] Add a "Video" section for good vids on machine psychology
+- [ ] Add a "Blogs" section for good blogs about machine psychology
 
 ## Templates
 
@@ -148,10 +158,10 @@ Note: Most of the data sets listed below are free, however, some are not.
 
 Citation criteria (TBD)
 
-< 6 months : New Papers (by discussion)
-2024 : citations
-2023 : citations
-2022 : citations
+- < 6 months : New Papers (by discussion)
+- 2024 : citations
+- 2023 : citations
+- 2022 : citations
 
 If the paper only has an arXiv preprint link, skip the "published in" section
 
@@ -162,4 +172,8 @@ If the paper only has an arXiv preprint link, skip the "published in" section
 - PDF: 
 - Authors: 
 ```
+
+### Datasets
+
+### Models
 
