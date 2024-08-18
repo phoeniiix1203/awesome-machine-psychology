@@ -36,21 +36,24 @@ This version adds a warmer tone while keeping the key information clear.
 
 - Published in: ACL 2024
 - PDF: https://arxiv.org/abs/2310.02124
-- Authors: 
+- Authors:
+- Code: https://github.com/zjunlp/MachineSoM
 <!-- cited by 43 -->
 
 **InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews**
 
 - Published in: ACL 2024
 - PDF: https://arxiv.org/abs/2310.17976
-- Authors: 
+- Authors:
+- Code: https://github.com/neph0s/incharacter
 <!-- cited by 21 -->
 
 **PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety**
 
 - Published in: ACL 2024
 - PDF: https://arxiv.org/abs/2401.11880
-- Authors: 
+- Authors:
+- Code: https://github.com/AI4Good24/PsySafe
 <!-- cited by 9 -->
 
 **PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents**
@@ -72,27 +75,31 @@ This version adds a warmer tone while keeping the key information clear.
 
 - Published in: ACL 2024
 - PDF: https://arxiv.org/abs/2405.16433
-- Authors: 
+- Authors:
+- Code: https://github.com/CAS-SIAT-XinHai/CPsyCoun
 <!-- cited by 2 -->
 
 **Using Artificial Populations to Study Psychological Phenomena in Neural Models**
 
 - Published in: AAAI 2024
 - PDF: https://arxiv.org/abs/2308.08032
-- Authors: 
+- Authors:
+- Code: https://github.com/JesseTNRoberts/Using-Artificial-Populations-to-Study-Psychological-Phenomena-in-Language-Models
 <!-- cited by 3 -->
 
 **Working Memory Capacity of ChatGPT: An Empirical Study**
 
 - Published in: AAAI 2024
 - PDF: https://doi.org/10.1609/aaai.v38i9.28868
-- Authors: 
+- Authors:
+- Code: https://github.com/Daniel-Gong/ChatGPT-WM
 <!-- cited by 4 -->
 
 **PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals**
 
 - PDF: https://arxiv.org/abs/2405.19660
 - Authors: Ruiyi Wang, Stephanie Milani, Jamie C. Chiu, Jiayin Zhi, Shaun M. Eack, Travis Labrum, Samuel M. Murphy, Nev Jones, Kate Hardy, Hong Shen, Fei Fang, Zhiyu Zoey Chen
+- Code: https://github.com/ruiyiw/patient-psi
 <!-- cited by 1 -->
 
 <!-- 
@@ -202,9 +209,26 @@ Note: Most of the datasets listed below are free, however, some are not.
 
 [HealMe](https://github.com/elsa66666/healme): Please refer to HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy
 
+[InCharacter](https://github.com/Neph0s/InCharacter): Please refer to InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews
+
+[PsySafe](https://github.com/AI4Good24/PsySafe): Please refer to PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety
+
+[CPsyCoun](https://github.com/CAS-SIAT-XinHai/CPsyCoun): Please refer to CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling
+
+[ChatGPT-WM](https://github.com/Daniel-Gong/ChatGPT-WM): Please refer to Working Memory Capacity of ChatGPT: An Empirical Study
+
+[Using Artificial Populations to Study Psychological Phenomena in Language Models](https://github.com/JesseTNRoberts/Using-Artificial-Populations-to-Study-Psychological-Phenomena-in-Language-Models)
+
 ## Models
 
 [HealMe](https://github.com/elsa66666/healme): Please refer to HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy
 
 [Patient Psi](https://github.com/ruiyiw/patient-psi): Please refer to PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professionals
 
+[MachineSoM](https://github.com/zjunlp/MachineSoM): Please refer to Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View
+
+[InCharacter](https://github.com/Neph0s/InCharacter): Please refer to InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews
+
+[CPsyCoun](https://github.com/CAS-SIAT-XinHai/CPsyCoun): Please refer to CPsyCoun: A Report-based Multi-turn Dialogue Reconstruction and Evaluation Framework for Chinese Psychological Counseling
+
+[Using Artificial Populations to Study Psychological Phenomena in Language Models](https://github.com/JesseTNRoberts/Using-Artificial-Populations-to-Study-Psychological-Phenomena-in-Language-Models)
