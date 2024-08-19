@@ -4,7 +4,7 @@
 
 🌟 **A curated collection of standout papers, datasets, and models in machine psychology**—the fascinating study of artificial intelligence (AI) systems, especially large language models (LLMs), using experimental and theoretical methods traditionally applied in human psychology.
 
-🎓 This project was created at [OMNILab](https://github.com/OMNILab), Shanghai Jiao Tong University, by [Xiangtiange Li](https://github.com/tranquiltina), [Qiyuan Gu](https://github.com/phoeniiix1203), and [Xingyue Zhang](https://github.com/Adazhangdada), under the guidance of Professor Yaohui Jin and Dr. Binglei Zhao. OMNILab is now a part of the [BaiYuLan Open AI community](https://github.com/Bai-Yu-Lan).
+🎓 This project was created at [OMNILab](https://github.com/OMNILab), Shanghai Jiao Tong University, by [Xiangtiange Li](https://github.com/tranquiltina), [Qiyuan Gu](https://github.com/phoeniiix1203), and [Xinyue Zhang](https://github.com/Adazhangdada), under the guidance of Professor Yaohui Jin and Dr. Binglei Zhao. OMNILab is now a part of the [BaiYuLan Open AI community](https://github.com/Bai-Yu-Lan).
 
 💡 We welcome contributions to this collection! Please review the [Contribution Guidelines](CONTRIBUTING.md) to make sure your entries fit the criteria.
 
@@ -122,6 +122,7 @@ cited by 1
 - Published in: Proceedings of the National Academy of Sciences. Vol. 120 | No. 6.
 - PDF: https://www.pnas.org/doi/10.1073/pnas.2218523120
 - Authors: Marcel Binz, Eric Schulz
+- Code: https://github.com/marcelbinz/GPT3goesPsychology
 <!-- cited by 396 -->
 
 **Inducing anxiety in large language models increases exploration and bias**
@@ -135,6 +136,7 @@ cited by 1
 - Published in: Nature Computer Science
 - PDF: https://www.nature.com/articles/s43588-023-00527-x
 - Authors: Thilo Hagendorff, Sarah Fabi, Michal Kosinski
+- Code: https://osf.io/w5vhp/
 <!-- cited by 60 -->
 
 **A Manager and an AI Walk into a Bar: Does ChatGPT Make Biased Decisions Like We Do?**
@@ -197,6 +199,7 @@ cited by 19
 
 - PDF: https://pubmed.ncbi.nlm.nih.gov/37401923/
 - Authors: Sean Trott, Cameron Jones, Tyler Chang, James Michaelov, Benjamin Bergen
+- Code: https://osf.io/hu865/
 <!-- cited by 64 -->
 
 <!-- 
@@ -218,6 +221,12 @@ Note: Most of the datasets listed below are free, however, some are not.
 [ChatGPT-WM](https://github.com/Daniel-Gong/ChatGPT-WM): Please refer to Working Memory Capacity of ChatGPT: An Empirical Study
 
 [Using Artificial Populations to Study Psychological Phenomena in Language Models](https://github.com/JesseTNRoberts/Using-Artificial-Populations-to-Study-Psychological-Phenomena-in-Language-Models)
+
+[GPT3goesPsychology](https://github.com/marcelbinz/GPT3goesPsychology): Please refer to Using cognitive psychology to understand GPT-3
+
+[Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT](https://osf.io/w5vhp/)
+
+[Do Large Language Models Know What They Don’t Know?](https://osf.io/hu865/)
 
 ## Models
 
